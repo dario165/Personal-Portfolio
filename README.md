@@ -1,5 +1,7 @@
 # Personal-Portfolio
-HTML, CSS (flexbox) and Java Scrip![portfolio1](https://user-images.githubusercontent.com/81823496/143769702-13d10663-102c-40df-9595-2f7e1749733b.PNG)
+ Exemple of a personal Portfolio inspired in the course: Modern HTML & CSS from Brad Traversy
+ HTML, CSS (flexbox) and Java Scrip 
+ ![portfolio1](https://user-images.githubusercontent.com/81823496/143769702-13d10663-102c-40df-9595-2f7e1749733b.PNG)
 ![portfolio2](https://user-images.githubusercontent.com/81823496/143769703-38da4dca-cb4a-4279-a457-880f0df5a13e.PNG)
 ![portfolio3](https://user-images.githubusercontent.com/81823496/143769707-7f2949ab-400d-4a62-b3e5-297e2734768c.PNG)
 ![portfolio4](https://user-images.githubusercontent.com/81823496/143769711-fb913a16-77ec-42cd-a412-b5672cdcffda.PNG)
