@@ -1,5 +1,5 @@
 # Personal-Portfolio
- Exemple of a personal Portfolio inspired in the course: Modern HTML & CSS from Brad Traversy
+ Example of a personal Portfolio inspired in the course: Modern HTML & CSS from Brad Traversy
  HTML, CSS (flexbox) and Java Scrip 
  ![portfolio1](https://user-images.githubusercontent.com/81823496/143769702-13d10663-102c-40df-9595-2f7e1749733b.PNG)
 ![portfolio2](https://user-images.githubusercontent.com/81823496/143769703-38da4dca-cb4a-4279-a457-880f0df5a13e.PNG)
